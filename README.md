@@ -1,6 +1,6 @@
 # OpenBrute
 
-A Python module to perform brute force attacks on a MD5 hashes
+A Python module to perform brute force attacks on MD5 hashes
 
 ## Installation
 
